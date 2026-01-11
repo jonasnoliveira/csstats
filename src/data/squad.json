@@ -1,0 +1,862 @@
+[
+  {
+    "id": "76561199553832372",
+    "steamId": "76561199553832372",
+    "username": "Bielzin da ZL",
+    "avatarUrl": "https://avatars.steamstatic.com/c0484098ac0b8e7763a87dcc491f33bc7b55a6cf_full.jpg",
+    "rank": {
+      "current": 10862,
+      "tier": "Premier",
+      "iconUrl": ""
+    },
+    "overall": {
+      "kdRatio": 0.89,
+      "winRate": 53,
+      "headshotPercentage": 44,
+      "totalMatches": 75,
+      "wins": 66,
+      "losses": 0,
+      "ties": 0,
+      "damagePerRound": 89,
+      "adr": 89,
+      "hltvRating": 0.97,
+      "kast": 67
+    },
+    "history": [
+      {
+        "date": "2025-12-21",
+        "kdRatio": 0.94,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-22",
+        "kdRatio": 0.79,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-23",
+        "kdRatio": 0.69,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-24",
+        "kdRatio": 0.71,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-25",
+        "kdRatio": 0.82,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-26",
+        "kdRatio": 0.77,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-27",
+        "kdRatio": 0.99,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-28",
+        "kdRatio": 1.06,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-29",
+        "kdRatio": 0.92,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-30",
+        "kdRatio": 1.1,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-31",
+        "kdRatio": 1,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-01",
+        "kdRatio": 0.94,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-02",
+        "kdRatio": 0.83,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-03",
+        "kdRatio": 1.06,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-04",
+        "kdRatio": 0.76,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-05",
+        "kdRatio": 1.07,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-06",
+        "kdRatio": 0.74,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-07",
+        "kdRatio": 0.71,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-08",
+        "kdRatio": 0.7,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-09",
+        "kdRatio": 0.98,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-10",
+        "kdRatio": 1.01,
+        "result": "W",
+        "map": "Premier"
+      }
+    ],
+    "topMaps": [
+      {
+        "name": "Mirage",
+        "matches": 20,
+        "winRate": 55,
+        "kdRatio": 1.1
+      },
+      {
+        "name": "Inferno",
+        "matches": 15,
+        "winRate": 48,
+        "kdRatio": 0.9
+      },
+      {
+        "name": "Nuke",
+        "matches": 10,
+        "winRate": 60,
+        "kdRatio": 1.2
+      }
+    ]
+  },
+  {
+    "id": "76561198396424299",
+    "steamId": "76561198396424299",
+    "username": "Caga Tronco",
+    "avatarUrl": "https://avatars.steamstatic.com/456085a5f333d788448afc2bac6e41b845fe7084_full.jpg",
+    "rank": {
+      "current": 10472,
+      "tier": "Premier",
+      "iconUrl": ""
+    },
+    "overall": {
+      "kdRatio": 1.21,
+      "winRate": 48,
+      "headshotPercentage": 37,
+      "totalMatches": 78,
+      "wins": 24,
+      "losses": 0,
+      "ties": 0,
+      "damagePerRound": 78,
+      "adr": 78,
+      "hltvRating": 1.23,
+      "kast": 73
+    },
+    "history": [
+      {
+        "date": "2025-12-21",
+        "kdRatio": 1.15,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-22",
+        "kdRatio": 1.3,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-23",
+        "kdRatio": 1.15,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-24",
+        "kdRatio": 1.02,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-25",
+        "kdRatio": 1.26,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-26",
+        "kdRatio": 1.15,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-27",
+        "kdRatio": 1.26,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-28",
+        "kdRatio": 1.04,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-29",
+        "kdRatio": 1.12,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-30",
+        "kdRatio": 1.18,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-31",
+        "kdRatio": 1.02,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-01",
+        "kdRatio": 1.32,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-02",
+        "kdRatio": 1.36,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-03",
+        "kdRatio": 1.08,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-04",
+        "kdRatio": 0.99,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-05",
+        "kdRatio": 1.34,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-06",
+        "kdRatio": 1.09,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-07",
+        "kdRatio": 1.23,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-08",
+        "kdRatio": 1.35,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-09",
+        "kdRatio": 1.09,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-10",
+        "kdRatio": 1.14,
+        "result": "W",
+        "map": "Premier"
+      }
+    ],
+    "topMaps": [
+      {
+        "name": "Mirage",
+        "matches": 20,
+        "winRate": 55,
+        "kdRatio": 1.1
+      },
+      {
+        "name": "Inferno",
+        "matches": 15,
+        "winRate": 48,
+        "kdRatio": 0.9
+      },
+      {
+        "name": "Nuke",
+        "matches": 10,
+        "winRate": 60,
+        "kdRatio": 1.2
+      }
+    ]
+  },
+  {
+    "id": "76561199526211781",
+    "steamId": "76561199526211781",
+    "username": "JohnGOD",
+    "avatarUrl": "https://avatars.steamstatic.com/6f2e7d9ea8325c30bc8498244ef0f79a573e6b6b_full.jpg",
+    "rank": {
+      "current": 11755,
+      "tier": "Premier",
+      "iconUrl": ""
+    },
+    "overall": {
+      "kdRatio": 1.35,
+      "winRate": 55,
+      "headshotPercentage": 34,
+      "totalMatches": 144,
+      "wins": 46,
+      "losses": 0,
+      "ties": 0,
+      "damagePerRound": 84,
+      "adr": 84,
+      "hltvRating": 1.34,
+      "kast": 72
+    },
+    "history": [
+      {
+        "date": "2025-12-21",
+        "kdRatio": 1.17,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-22",
+        "kdRatio": 1.15,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-23",
+        "kdRatio": 1.46,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-24",
+        "kdRatio": 1.18,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-25",
+        "kdRatio": 1.17,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-26",
+        "kdRatio": 1.16,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-27",
+        "kdRatio": 1.28,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-28",
+        "kdRatio": 1.52,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-29",
+        "kdRatio": 1.26,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-30",
+        "kdRatio": 1.47,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-31",
+        "kdRatio": 1.39,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-01",
+        "kdRatio": 1.25,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-02",
+        "kdRatio": 1.44,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-03",
+        "kdRatio": 1.12,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-04",
+        "kdRatio": 1.24,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-05",
+        "kdRatio": 1.23,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-06",
+        "kdRatio": 1.54,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-07",
+        "kdRatio": 1.11,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-08",
+        "kdRatio": 1.45,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-09",
+        "kdRatio": 1.23,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-10",
+        "kdRatio": 1.5,
+        "result": "W",
+        "map": "Premier"
+      }
+    ],
+    "topMaps": [
+      {
+        "name": "Mirage",
+        "matches": 20,
+        "winRate": 55,
+        "kdRatio": 1.1
+      },
+      {
+        "name": "Inferno",
+        "matches": 15,
+        "winRate": 48,
+        "kdRatio": 0.9
+      },
+      {
+        "name": "Nuke",
+        "matches": 10,
+        "winRate": 60,
+        "kdRatio": 1.2
+      }
+    ]
+  },
+  {
+    "id": "76561198143046972",
+    "steamId": "76561198143046972",
+    "username": "OREIA SECA",
+    "avatarUrl": "https://avatars.steamstatic.com/ae1aeb1cf064a2ec48db9d80aa4d2bf2ab2130e6_full.jpg",
+    "rank": {
+      "current": 15901,
+      "tier": "Premier",
+      "iconUrl": ""
+    },
+    "overall": {
+      "kdRatio": 0.9,
+      "winRate": 57,
+      "headshotPercentage": 33,
+      "totalMatches": 131,
+      "wins": 72,
+      "losses": 0,
+      "ties": 0,
+      "damagePerRound": 79,
+      "adr": 79,
+      "hltvRating": 0.98,
+      "kast": 73
+    },
+    "history": [
+      {
+        "date": "2025-12-21",
+        "kdRatio": 1.1,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-22",
+        "kdRatio": 1.06,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-23",
+        "kdRatio": 0.73,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-24",
+        "kdRatio": 0.89,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-25",
+        "kdRatio": 0.89,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-26",
+        "kdRatio": 0.73,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-27",
+        "kdRatio": 1.02,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-28",
+        "kdRatio": 1.06,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-29",
+        "kdRatio": 1.14,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-30",
+        "kdRatio": 0.98,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-31",
+        "kdRatio": 1.13,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-01",
+        "kdRatio": 0.97,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-02",
+        "kdRatio": 0.67,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-03",
+        "kdRatio": 0.95,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-04",
+        "kdRatio": 0.76,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-05",
+        "kdRatio": 0.74,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-06",
+        "kdRatio": 0.87,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-07",
+        "kdRatio": 0.86,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-08",
+        "kdRatio": 0.92,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-09",
+        "kdRatio": 0.86,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-10",
+        "kdRatio": 1.13,
+        "result": "W",
+        "map": "Premier"
+      }
+    ],
+    "topMaps": [
+      {
+        "name": "Mirage",
+        "matches": 20,
+        "winRate": 55,
+        "kdRatio": 1.1
+      },
+      {
+        "name": "Inferno",
+        "matches": 15,
+        "winRate": 48,
+        "kdRatio": 0.9
+      },
+      {
+        "name": "Nuke",
+        "matches": 10,
+        "winRate": 60,
+        "kdRatio": 1.2
+      }
+    ]
+  },
+  {
+    "id": "76561198117500081",
+    "steamId": "76561198117500081",
+    "username": "Silos Malafaio",
+    "avatarUrl": "https://avatars.steamstatic.com/e2d67afdb096a120cd615a0aebe04db79570803f_full.jpg",
+    "rank": {
+      "current": 11553,
+      "tier": "Premier",
+      "iconUrl": ""
+    },
+    "overall": {
+      "kdRatio": 0.99,
+      "winRate": 55,
+      "headshotPercentage": 48,
+      "totalMatches": 118,
+      "wins": 45,
+      "losses": 0,
+      "ties": 0,
+      "damagePerRound": 77,
+      "adr": 77,
+      "hltvRating": 1.06,
+      "kast": 74
+    },
+    "history": [
+      {
+        "date": "2025-12-21",
+        "kdRatio": 1.15,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-22",
+        "kdRatio": 1.08,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-23",
+        "kdRatio": 0.88,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-24",
+        "kdRatio": 0.94,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-25",
+        "kdRatio": 0.75,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-26",
+        "kdRatio": 0.94,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-27",
+        "kdRatio": 0.95,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-28",
+        "kdRatio": 0.77,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-29",
+        "kdRatio": 1.08,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-30",
+        "kdRatio": 1.11,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2025-12-31",
+        "kdRatio": 0.93,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-01",
+        "kdRatio": 1.13,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-02",
+        "kdRatio": 1.11,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-03",
+        "kdRatio": 0.98,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-04",
+        "kdRatio": 1.02,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-05",
+        "kdRatio": 0.77,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-06",
+        "kdRatio": 0.99,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-07",
+        "kdRatio": 0.78,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-08",
+        "kdRatio": 0.88,
+        "result": "L",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-09",
+        "kdRatio": 1.09,
+        "result": "W",
+        "map": "Premier"
+      },
+      {
+        "date": "2026-01-10",
+        "kdRatio": 0.83,
+        "result": "L",
+        "map": "Premier"
+      }
+    ],
+    "topMaps": [
+      {
+        "name": "Mirage",
+        "matches": 20,
+        "winRate": 55,
+        "kdRatio": 1.1
+      },
+      {
+        "name": "Inferno",
+        "matches": 15,
+        "winRate": 48,
+        "kdRatio": 0.9
+      },
+      {
+        "name": "Nuke",
+        "matches": 10,
+        "winRate": 60,
+        "kdRatio": 1.2
+      }
+    ]
+  }
+]

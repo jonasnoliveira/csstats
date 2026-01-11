@@ -1,0 +1,31 @@
+.card {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-lg);
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.hoverEffect:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+    border-color: var(--glass-highlight);
+}
+
+/* Internal aesthetic reflection/sheen */
+.reflection {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background: linear-gradient(135deg,
+            rgba(255, 255, 255, 0.05) 0%,
+            transparent 100%);
+    pointer-events: none;
+    z-index: 0;
+}
